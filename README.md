@@ -14,7 +14,15 @@ Twitter : https://twitter.com/itxomiqureshi
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ....
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&title_color=#000000&icon_color=#000000&text_color=#000000&bg_color=#FFFFFF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Muhammad-Osama-Qureshi/github-readme-stats)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&layout=compact&theme=radical)](https://github.com/Muhammad-Osama-Qureshi/github-readme-stats)
+
+
+
+
+
+
+
+
 
 
