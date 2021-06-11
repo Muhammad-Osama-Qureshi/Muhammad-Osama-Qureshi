@@ -6,7 +6,7 @@ I am Muhammad Osama here ,
 - 🔭 I’m currently working on ToDoAppWithFlutter
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Facebook , Youtube , Instgram
-- 🤔 I’m looking for help with Reactjs, Flutter
+- 🤔 I’m looking for help with Reactjs
 - 💬 Ask me about Front End Web and Mobile app with Flutter 
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com ,
 - 👋 Connect Me :  LinkedIn: https://www.linkedin.com/in/muhammad-osama-qureshi-2973b2170/ ,Facebook : https://web.facebook.com/muhammad.osama.qureshi24/  ,
