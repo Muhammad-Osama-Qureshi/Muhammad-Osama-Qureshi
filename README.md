@@ -18,7 +18,7 @@ Instgram : https://Instagram.com/m.osama.qureshi .
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&langs_count=6&theme=radical)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
 
 
 Languages and Tools : 
