@@ -33,7 +33,7 @@ I am Muhammad Osama here ,
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&langs_count=6&theme=radical)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 Languages and Tools : 
