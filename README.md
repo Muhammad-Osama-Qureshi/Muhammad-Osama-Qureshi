@@ -28,7 +28,7 @@ I am Muhammad Osama here ,
 - 💬 Ask me about Front End Web and Mobile app with Flutter 
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am Slow learner 😄
+- ⚡ Fun fact: I rarely Sleep xD 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&theme=radical)
 
