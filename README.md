@@ -30,10 +30,11 @@ I am Muhammad Osama here ,
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I rarely Sleep xD 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&theme=radical)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&&theme=dark)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
+
 
 
 Languages and Tools : 
