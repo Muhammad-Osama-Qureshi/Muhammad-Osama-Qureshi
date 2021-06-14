@@ -33,6 +33,8 @@ I am Muhammad Osama here ,
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&&theme=dark)
 
 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-osama-qureshi&theme=dark" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&&theme=dark)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
 
 
