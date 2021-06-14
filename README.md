@@ -21,9 +21,9 @@ I am Muhammad Osama here ,
 ![](https://visitor-badge.glitch.me/badge?page_id=muhammad-osama-qureshi)
 
 
-- 🔭 I’m currently working on ToDoAppWithFlutter
+- 🔭 I’m currently working on ToDo
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Facebook , Youtube , Instgram
+- 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Reactjs
 - 💬 Ask me about Front End Web and Mobile app with Flutter 
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
