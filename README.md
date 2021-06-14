@@ -35,7 +35,7 @@ I am Muhammad Osama here ,
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-osama-qureshi&theme=chartreuse-dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&&theme=chartreuse-dark)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-osama-qureshi&&theme=chartreuse-dark&text_color=#0000FF&border_color=#0000FF)](https://github.com/muhammad-osama-qureshi/github-readme-stats)
 
 
 
