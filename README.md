@@ -10,7 +10,7 @@ I am Muhammad Osama here ,
 - 💬 Ask me about Front End Web and Mobile app with Flutter 
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I rarely Sleep xD 
+- ⚡ Fun fact: I Don't Sleep xD 
 
 - <h4 align="left">Connect with me:</h4><a href="https://www.linkedin.com/in/muhammad-osama-qureshi-2973b2170/">
   <img align="left" alt="Muhammad Osama's LinkedIn " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
