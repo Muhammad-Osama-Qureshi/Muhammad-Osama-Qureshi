@@ -12,18 +12,18 @@ I am Muhammad Osama here ,
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Don't Sleep xD 
 
-- <h4 align="left">Connect with me:</h4><a href="https://www.linkedin.com/in/muhammad-osama-qureshi-2973b2170/">
-  <img align="left" alt="Muhammad Osama's LinkedIn " width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- <h4 align="left">Connect with me:</h4>
 <a href="https://twitter.com/itxomiqureshi">
   <img align="left" alt="Muhammad Osama's Twitter " width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 </a>
 <a href="https://facebook.com/muhammad.osama.qureshi24/ ">
   <img align="left" alt="Muhammad Osama's FB " width="22px" src="https://i.pinimg.com/736x/ac/57/3b/ac573b439cde3dec8ca1c6739ae7f628.jpg" />
 </a>
-<a href="https://Instagram.com/m.osama.qureshi ">
-  <img align="left" alt="Muhammad Osama's Insta " width="22px"  src="https://image.flaticon.com/icons/png/512/87/87390.png" />
-</a>
+
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Muhammad-Osama-Qureshi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-osama-qureshi-4h2o)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/m.osama.qureshi)
+
 
 
 
