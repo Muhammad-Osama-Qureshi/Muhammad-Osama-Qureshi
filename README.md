@@ -11,7 +11,6 @@ I am Muhammad Osama here ,
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I Don't Sleep xD .
-- 
 
 - <h4 align="left">Connect with me:</h4>
 <a href="https://twitter.com/itxomiqureshi">
