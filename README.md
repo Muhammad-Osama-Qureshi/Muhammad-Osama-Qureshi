@@ -4,9 +4,9 @@
 I am Muhammad Osama here , 
 
 - 🔭 I’m currently working on ChatApp
-- 🌱 I’m currently on Flutter Ride.
+- 🌱 I’m currently on Pythoner Ride.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Reactjs.
+- 🤔 I’m looking for help with Python Automation.
 - 💬 Ask me about Front End Web and Mobile app with Flutter .
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
 - 😄 Pronouns: He/His.
