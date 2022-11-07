@@ -31,7 +31,6 @@ I am Muhammad Osama here ,
 
 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=muhammad-osama-qureshi&&show_icons=true&&theme=chartreuse-dark)
 
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-osama-qureshi&theme=chartreuse-dark" />
