@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 
-I am Muhammad Osama here , 
+I am Muhammad Osama here, 
 
 - 🔭 I’m currently working learning SQA
 - 🌱 I’m currently on Pythoner Ride.
