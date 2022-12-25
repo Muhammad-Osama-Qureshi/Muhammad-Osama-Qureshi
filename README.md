@@ -3,11 +3,11 @@
 
 I am Muhammad Osama here , 
 
-- 🔭 I’m currently working on Chat Application
+- 🔭 I’m currently working learning SQA
 - 🌱 I’m currently on Pythoner Ride.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python Automation.
-- 💬 Ask me about Front End Web and Mobile app with Flutter .
+- 💬 Ask me about Software Quality Assurance and Front End Web or Mobile application with Flutter .
 - 📫 How to reach me: Gmail: mosamarafique@gmail.com .
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I Don't Sleep xD .
