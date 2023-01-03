@@ -3,8 +3,7 @@
 
 I am Muhammad Osama here, 
 
-- 🔭 I’m currently learning SQA
-- 🌱 I’m currently on Pythoner Ride.
+- 🔭 I’m currently learning SQA and its tools
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python Automation.
 - 💬 Ask me about Software Quality Assurance and Front End Web or Mobile application with Flutter .
