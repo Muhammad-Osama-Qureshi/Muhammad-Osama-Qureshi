@@ -3,7 +3,7 @@
 
 I am Muhammad Osama here, 
 
-- 🔭 I’m currently working learning SQA
+- 🔭 I’m currently learning SQA
 - 🌱 I’m currently on Pythoner Ride.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Python Automation.
